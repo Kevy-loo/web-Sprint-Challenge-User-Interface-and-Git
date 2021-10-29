@@ -195,3 +195,33 @@ button{
     margin-top: 40px;
     margin-bottom: 30px;
 }
+.box:nth-child(1):nth-child(1){
+    background: teal;
+}
+.box:nth-child(2):nth-child(2){
+    background-color: gold;
+}
+.box:nth-child(3):nth-child(3){
+    background-color: cadetblue;
+}
+.box:nth-child(4):nth-child(4){
+    background-color: coral;
+}
+.box:nth-child(5):nth-child(5){
+    background-color: crimson;
+}
+.box:nth-child(6):nth-child(6){
+    background-color: forestgreen;
+}
+.box:nth-child(7):nth-child(7){
+    background-color: darkorchid;
+}
+.box:nth-child(8):nth-child(8){
+    background-color: hotpink;
+}
+.box:nth-child(9):nth-child(9){
+    background-color: indigo;
+}
+.box:nth-child(10):nth-child(10){
+    background-color: dodgerblue;
+}
