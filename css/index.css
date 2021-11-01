@@ -144,3 +144,84 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/*top portion*/
+.topsection{
+    display: flex;
+    justify-content: space-around;
+    margin: 19px 26%;
+    align-items: flex-end;
+}
+a{
+    text-decoration: none;
+}
+.topimage{
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+}
+.abouttext{
+    margin: 14px 29%;
+    padding-bottom: 1%;
+    border-bottom: 1px dashed black;
+}
+
+/*about page*/
+.stuff{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.aboutparts{
+    border-bottom: 1px dashed black;
+    width: 350px;
+    
+}
+.aboutparts h2{
+    margin-top: 10px;
+}
+.aboutparts img{
+    width: 90%;
+}
+button{
+    border-radius: 12px;
+    padding: 2%;
+    width: 35%;
+    height: 10%;
+    margin: 20px 0;
+    background-color: white;
+}
+.bottomportion{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.middle-content .boxes .box:nth-child(1){
+    background: teal;
+}
+.middle-content .boxes .box:nth-child(2){
+    background-color: gold;
+}
+.middle-content .boxes .box:nth-child(3){
+    background-color: cadetblue;
+}
+.middle-content .boxes .box:nth-child(4){
+    background-color: coral;
+}
+.middle-content .boxes .box:nth-child(5){
+    background-color: crimson;
+}
+.middle-content .boxes .box:nth-child(6){
+    background-color: forestgreen;
+}
+.middle-content .boxes .box:nth-child(7){
+    background-color: darkorchid;
+}
+.middle-content .boxes .box:nth-child(8){
+    background-color: hotpink;
+}
+.middle-content .boxes .box:nth-child(9){
+    background-color: indigo;
+}
+.middle-content .boxes .box:nth-child(10){
+    background-color: dodgerblue;
+}
